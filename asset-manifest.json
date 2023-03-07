@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0474d2e8.css",
+    "main.js": "/static/js/main.abfa1328.js",
+    "static/js/787.9cee78d3.chunk.js": "/static/js/787.9cee78d3.chunk.js",
+    "static/media/quadromous-hero.png": "/static/media/quadromous-hero.0a33da2a39847270ae59.png",
+    "static/media/quadromous-logo.png": "/static/media/quadromous-logo.a9984ecfd574b25c7f40.png",
+    "index.html": "/index.html",
+    "main.0474d2e8.css.map": "/static/css/main.0474d2e8.css.map",
+    "main.abfa1328.js.map": "/static/js/main.abfa1328.js.map",
+    "787.9cee78d3.chunk.js.map": "/static/js/787.9cee78d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0474d2e8.css",
+    "static/js/main.abfa1328.js"
+  ]
+}
